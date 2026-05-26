@@ -47,7 +47,7 @@ dotnet run
 
 The application uses `SfDataForm` with `EditContext` and `DataAnnotationsValidator` for client-side validation, demonstrating how Syncfusion's DataForm component integrates with Blazor's built-in validation system.
 
-## See Also
+## References
 
 - [Blazor DataForm](https://blazor.syncfusion.com/documentation/data-form/getting-started-with-web-app)
 - [Blazor Forms & Validation Guide](https://www.learnblazor.com/form-validation)
