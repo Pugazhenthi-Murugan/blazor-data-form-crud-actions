@@ -2,6 +2,10 @@
 
 A demonstration application showcasing CRUD (Create, Read, Update, Delete) operations using the [ Blazor DataForm](https://www.syncfusion.com/blazor-components/blazor-data-form) component in a Blazor Server-side application. This project provides an intuitive interface for managing employee records with built-in validation, modal dialogs, and responsive design.
 
+## Overview
+
+This project demonstrates best practices for implementing employee data management using DataForm component. The application serves as a practical reference implementation for developers looking to integrate sophisticated CRUD functionality with client-side validation in Blazor applications.
+
 ## Features
 
 - **Create** new employee records through an integrated form dialog
@@ -43,11 +47,8 @@ dotnet restore
 dotnet run
 ```
 
-### DataForm Integration
-
-The application uses `SfDataForm` with `EditContext` and `DataAnnotationsValidator` for client-side validation, demonstrating how Syncfusion's DataForm component integrates with Blazor's built-in validation system.
-
 ## References
 
-- [Blazor DataForm](https://blazor.syncfusion.com/documentation/data-form/getting-started-with-web-app)
+- [Blazor DataForm](https://blazor.syncfusion.com/documentation/data-form/getting-started-with-server-app)
+- [Blazor DataForm Demo](https://blazor.syncfusion.com/demos/data-form/default-functionalities?theme=fluent2)
 - [Blazor Forms & Validation Guide](https://www.learnblazor.com/form-validation)
